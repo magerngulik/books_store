@@ -192,5 +192,5 @@ class CounterTesting extends StatelessWidget {
 - selanjutnya untuk bagian freezed dapat di lihat kita hanya perlu melakukan return pada class freezed dan semua sudah di handle
 
 ## Hasil ss select item
-![hasil ss](https://github.com/SwaroopSambhayya/Food-UI-Transition/assets/31922733/203f1684-d6bd-481a-b890-af16c5a5b5e1)
+![hasil ss](https://raw.githubusercontent.com/magerngulik/books_store/main/assets/img/ss.png)
 
