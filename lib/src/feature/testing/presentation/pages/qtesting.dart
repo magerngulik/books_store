@@ -9,7 +9,7 @@ class CounterTesting extends StatelessWidget {
   Widget build(BuildContext context) {
     return BlocListener<CounterCubit, CounterState>(
       listener: (context, state) {
-        print(state);
+        // print(state);
       },
       child: Scaffold(
         appBar: AppBar(
