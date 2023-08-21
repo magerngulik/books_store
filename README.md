@@ -190,3 +190,7 @@ class CounterTesting extends StatelessWidget {
 *var data = context.read<"CounterCubit">();*, cukup panggil saja class yang ingin di gunakan
 
 - selanjutnya untuk bagian freezed dapat di lihat kita hanya perlu melakukan return pada class freezed dan semua sudah di handle
+
+## Hasil ss select item
+![hasil ss](https://github.com/SwaroopSambhayya/Food-UI-Transition/assets/31922733/203f1684-d6bd-481a-b890-af16c5a5b5e1)
+
