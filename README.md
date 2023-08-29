@@ -194,5 +194,7 @@ class CounterTesting extends StatelessWidget {
 ## Hasil ss select item
 ![hasil ss](https://raw.githubusercontent.com/magerngulik/books_store/main/assets/img/ss.png)
 
+https://github.com/magerngulik/books_store/blob/main/assets/video/select%20item%20bloc.mp4
+
 
 

@@ -3,7 +3,7 @@ import 'package:flutter/material.dart';
 import 'package:template_bloc_injectable_with_get_it/src/configs/injector/injection.dart';
 import 'package:template_bloc_injectable_with_get_it/src/feature/home/blocs/tipe_book/tipe_book_cubit.dart';
 import 'package:template_bloc_injectable_with_get_it/src/feature/home/blocs/type/type_books_cubit.dart';
-import 'package:template_bloc_injectable_with_get_it/src/feature/home/pages/home_pages.dart';
+import 'package:template_bloc_injectable_with_get_it/src/feature/home/pages/categories_pages.dart';
 import 'package:template_bloc_injectable_with_get_it/src/feature/testing/counter/cubit/counter_cubit.dart';
 import 'package:flutter_bloc/flutter_bloc.dart';
 
@@ -31,7 +31,7 @@ class MyApp extends StatelessWidget {
           colorScheme: ColorScheme.fromSeed(seedColor: Colors.deepPurple),
           useMaterial3: true,
         ),
-        home: const HomePages(),
+        home: const Categories_Pages(),
       ),
     );
   }
